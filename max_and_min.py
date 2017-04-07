@@ -1,4 +1,6 @@
 def find_max_min(value):
+	
+	"""find the minimum and maximum items in a list"""
 	min_item = value[0]
 	max_item = value[0]
 	
